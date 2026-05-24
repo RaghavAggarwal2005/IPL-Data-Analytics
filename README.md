@@ -13,7 +13,7 @@
 ## 📊 Dashboards
 
 ### 1. Batting Analysis Dashboard
-![Batting Dashboard](Dashboard png/ipl_batting_dashboard.png)
+![Batting Dashboard](Dashboardpng/ipl_batting_dashboard.png)
 
 > Top 8 all-time run scorers · Season-wise average first innings score · Strike rate comparison · Run distribution breakdown (fours, sixes, dot balls)
 
