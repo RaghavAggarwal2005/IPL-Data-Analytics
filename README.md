@@ -13,21 +13,21 @@
 ## 📊 Dashboards
 
 ### 1. Batting Analysis Dashboard
-![Batting Dashboard](ipl_batting_dashboard.png)
+![Batting Dashboard](Dashboard png/ipl_batting_dashboard.png)
 
 > Top 8 all-time run scorers · Season-wise average first innings score · Strike rate comparison · Run distribution breakdown (fours, sixes, dot balls)
 
 ---
 
 ### 2. Bowling & Match Analysis Dashboard
-![Bowling Dashboard](ipl_bowling_dashboard.png)
+![Bowling Dashboard](Dashboard png/ipl_bowling_dashboard.png)
 
 > Top 8 wicket takers · Economy rate comparison with color tiers · Toss decision win rate · Venue-wise average first innings score
 
 ---
 
 ### 3. Team & Phase Performance Dashboard
-![Team Dashboard](ipl_team_dashboard.png)
+![Team Dashboard](Dashboard png/ipl_team_dashboard.png)
 
 > IPL title counts by franchise · Wins batting vs fielding first · Over-by-over run rate (overs 1–20) · Team-phase heatmap · Season Orange & Purple Cap winners
 
